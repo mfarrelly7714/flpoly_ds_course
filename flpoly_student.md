@@ -1,23 +1,23 @@
-## First Name Last Name
+## Michael Farrelly
+### Spring 2021
 
-### Term Year 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Entrepreneurial Opportunity Analysis
 
-- Course 3
+- Principles of Microeconomics
 
-- Course 4
+- Purchasing and Materials Management
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Soccer
 
-- Thing 2
+- Watching Movies
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Education as shown in this website <https://www.floridapoly.edu>
