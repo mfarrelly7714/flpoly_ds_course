@@ -6,4 +6,6 @@
 | _Purchasing/MaterialMGT_          | **MAN**    | **3570**   | 3       |
 | _Law/Public Policy_               | **BUL**    | **2241**   | 3       |
 
+![Github Pic](https://github.com/mfarrelly7714/flpoly_ds_course)
+
 https://github.com/mfarrelly7714/flpoly_ds_course
